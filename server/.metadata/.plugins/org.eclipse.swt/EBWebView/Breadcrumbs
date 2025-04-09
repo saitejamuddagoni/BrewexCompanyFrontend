@@ -1,0 +1,51 @@
+0:28:02 Tab1 FinishNav9
+0:28:02 Tab1 PageLoad
+0:28:07 Memory Pressure: Moderate
+0:28:17 Memory Pressure: Moderate
+0:28:27 Memory Pressure: Moderate
+0:28:35 Tab1 StartNav10 #typed
+0:28:35 Tab1 FinishNav10
+0:28:35 Tab1 PageLoad
+0:28:37 Tab1 StartNav11 #typed
+0:28:37 Tab1 FinishNav11
+0:28:37 Tab1 PageLoad
+0:28:37 Memory Pressure: Moderate
+0:28:39 Tab1 StartNav12 #typed
+0:28:39 Tab1 FinishNav12
+0:28:39 Tab1 PageLoad
+0:28:44 Microsoft.Shutdown.OnWindowClosing
+0:28:44 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:28:44 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:28:44 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:28:44 Tab1 RenderProcessGone
+0:28:44 Browser1 Close Tab1 at 0
+0:28:44 Tab1 WebContentsDestroyed
+0:28:44 Microsoft.Shutdown.OnWindowClosing
+0:28:44 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:28:44 Widget Closed: BrowserFrame
+0:28:44 Microsoft.Shutdown.OnWindowClosing
+0:28:44 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:28:44 Microsoft.Browser_Removed
+0:29:12 Memory Pressure: Moderate
+0:29:22 Memory Pressure: Moderate
+0:29:25 Microsoft.Shutdown.OnWindowClosing
+0:29:25 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:29:25 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:29:25 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:29:25 Tab2 RenderProcessGone
+0:29:25 Browser2 Close Tab2 at 0
+0:29:25 Tab2 WebContentsDestroyed
+0:29:25 Microsoft.Shutdown.OnWindowClosing
+0:29:25 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:29:25 Widget Closed: BrowserFrame
+0:29:25 Microsoft.Shutdown.OnWindowClosing
+0:29:25 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:29:25 Microsoft.Last_Browser_Removed
+0:29:25 Microsoft.Shutdown.ShutdownIfNoBrowsers
+0:29:25 Microsoft.Shutdown.SetTryingToQuit_Quitting
+0:29:25 Microsoft.Shutdown.NotifyAppTerminating
+0:29:25 Microsoft.Shutdown.OnAppExiting
+0:29:25 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
+0:29:25 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
+0:29:25 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
+0:29:25 Shutdown
